@@ -1,1 +1,3 @@
-
+git add .
+git commit -m "John - Added Java practice examples"
+git push -u origin alexsmith-practice

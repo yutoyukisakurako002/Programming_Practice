@@ -3,7 +3,7 @@ package session02loopsmethods;
 public class AutonomousSequence{
 
   public static void moveForward(int distance) {
-    System.out.println("Robot moved to" + distance + " meters.")
+    System.out.println("Robot moved to " + distance + " meters.");
   }
   public static void turn360(){
     for (int i = 1; i <= 4; i++){
